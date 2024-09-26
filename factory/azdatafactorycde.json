@@ -1,0 +1,9 @@
+{
+	"name": "azdatafactorycde",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b2bf54e-7ede-45ad-a70e-65032b2a655b",
+		"tenantId": "e297cef3-4286-41ad-b3d8-77d7fda84c81"
+	}
+}
